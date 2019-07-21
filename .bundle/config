@@ -1,0 +1,5 @@
+---
+BUNDLE_SILENCE_ROOT_WARNING: "true"
+BUNDLE_PATH: "vendor/bundle"
+BUNDLE_CLEAN: "true"
+BUNDLE_BUILD__MYSQL2: "--with-mysql2-config=/usr/lib64/mysql/mysql_config"
